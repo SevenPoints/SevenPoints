@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+James M. McGrath
+co-Founder of SevenPoints Consulting
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+We help our customers adopt cloud computing solutions to help their organizations grow and thrive!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jim@sevenpoints.co](mailto:jim@sevenpoints.co)
